@@ -1,2 +1,3 @@
 Hello, Git!
 Test line is added
+And here is another line added
